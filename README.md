@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hola, soy Ender Calderón
 
-<!--
-**Yohebyth/Yohebyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Full Stack Developer  
+📍 Segovia, España  
+🚀 En búsqueda de mi primera oportunidad como desarrollador  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías
+
+**Frontend:**
+- React
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+
+**Backend:**
+- Python
+- Flask
+- REST APIs
+
+**Bases de datos:**
+- SQL
+- SQLAlchemy
+
+**Herramientas:**
+- Git
+- GitHub
+- Postman
+
+---
+
+## 📌 Proyectos destacados
+
+🔹 Ecommerce Full Stack  
+🔹 Autenticación JWT con React y Flask  
+🔹 API REST StarWars  
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/ender-calderon-dev
+- Email: Yohebyth@gmail.com
